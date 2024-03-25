@@ -31,7 +31,7 @@ void pop()
 {
     if (top == NULL)
     {
-        printf("Yığında eleman yoktur.");
+        printf("Yığında eleman yoktur");
     }
     else
     {
